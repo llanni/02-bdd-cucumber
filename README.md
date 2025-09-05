@@ -1,6 +1,5 @@
 # 02 - Add Cucumber (updated suite runner)
-
-This version uses the JUnit Platform Suite (`@Suite`) instead of the deprecated `@Cucumber`.
+A Java Maven Project showing an example of BDD usage with Gherkin and Cucumber, against the https://www.saucedemo.com/ demo eCommerce.
 
 ## Run (headless)
 ```bash
